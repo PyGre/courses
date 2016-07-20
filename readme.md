@@ -20,6 +20,8 @@ without any particular experience.
 * What is a program ?
 * Diving in ! Discovering Python
 
+[Slides](/programs/green/01_introduction_to_programming.html)
+
 ### Course 2 - Setting things up
 
 * Using the online interpreter
