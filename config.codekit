@@ -11,6 +11,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/external\/min\/reveal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/external\/min\/reveal-min.js",
+		"outputAbbreviatedPath": "\/_site\/external\/min\/min\/reveal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/external\/reveal.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/external\/reveal.js",
+		"outputAbbreviatedPath": "\/_site\/external\/min\/reveal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -22,7 +44,7 @@
 		},
 	"\/_site\/javascripts\/scale.fix.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/javascripts\/scale.fix.js",
 		"outputAbbreviatedPath": "\/_site\/javascripts\/min\/scale.fix-min.js",
@@ -532,7 +554,7 @@
 		},
 	"\/_site\/reveal.js\/Gruntfile.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/Gruntfile.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/min\/Gruntfile-min.js",
@@ -552,7 +574,7 @@
 		},
 	"\/_site\/reveal.js\/js\/reveal.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/js\/reveal.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/js\/min\/reveal-min.js",
@@ -590,7 +612,7 @@
 		},
 	"\/_site\/reveal.js\/lib\/js\/classList.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/classList.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/min\/classList-min.js",
@@ -601,7 +623,7 @@
 		},
 	"\/_site\/reveal.js\/lib\/js\/head.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/head.min.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/min\/head.min-min.js",
@@ -612,7 +634,7 @@
 		},
 	"\/_site\/reveal.js\/lib\/js\/html5shiv.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/html5shiv.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/lib\/js\/min\/html5shiv-min.js",
@@ -634,7 +656,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/highlight\/highlight.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/highlight\/highlight.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/highlight\/min\/highlight-min.js",
@@ -675,7 +697,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/markdown\/markdown.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/markdown\/markdown.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/markdown\/min\/markdown-min.js",
@@ -686,7 +708,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/markdown\/marked.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/markdown\/marked.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/markdown\/min\/marked-min.js",
@@ -697,7 +719,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/math\/math.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/math\/math.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/math\/min\/math-min.js",
@@ -708,7 +730,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/multiplex\/client.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/client.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/min\/client-min.js",
@@ -719,7 +741,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/multiplex\/index.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/index.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/min\/index-min.js",
@@ -730,7 +752,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/multiplex\/master.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/master.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/multiplex\/min\/master-min.js",
@@ -752,7 +774,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/notes-server\/client.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes-server\/client.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes-server\/min\/client-min.js",
@@ -763,7 +785,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/notes-server\/index.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes-server\/index.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes-server\/min\/index-min.js",
@@ -792,7 +814,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/notes\/notes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes\/notes.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/notes\/min\/notes-min.js",
@@ -803,7 +825,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/print-pdf\/print-pdf.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/print-pdf\/print-pdf.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/print-pdf\/min\/print-pdf-min.js",
@@ -814,7 +836,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/search\/search.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/search\/search.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/search\/min\/search-min.js",
@@ -825,7 +847,7 @@
 		},
 	"\/_site\/reveal.js\/plugin\/zoom-js\/zoom.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/zoom-js\/zoom.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/plugin\/zoom-js\/min\/zoom-min.js",
@@ -933,7 +955,7 @@
 		},
 	"\/_site\/reveal.js\/test\/qunit-1.12.0.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/qunit-1.12.0.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/qunit-1.12.0-min.js",
@@ -953,7 +975,7 @@
 		},
 	"\/_site\/reveal.js\/test\/test-markdown-element-attributes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/test-markdown-element-attributes.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/test-markdown-element-attributes-min.js",
@@ -973,7 +995,7 @@
 		},
 	"\/_site\/reveal.js\/test\/test-markdown-slide-attributes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/test-markdown-slide-attributes.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/test-markdown-slide-attributes-min.js",
@@ -993,7 +1015,7 @@
 		},
 	"\/_site\/reveal.js\/test\/test-markdown.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/test-markdown.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/test-markdown-min.js",
@@ -1013,7 +1035,7 @@
 		},
 	"\/_site\/reveal.js\/test\/test-pdf.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/test-pdf.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/test-pdf-min.js",
@@ -1033,7 +1055,7 @@
 		},
 	"\/_site\/reveal.js\/test\/test.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reveal.js\/test\/test.js",
 		"outputAbbreviatedPath": "\/_site\/reveal.js\/test\/min\/test-min.js",
@@ -1060,6 +1082,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/external\/min\/reveal-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/external\/min\/reveal-min.js",
+		"outputAbbreviatedPath": "\/external\/min\/min\/reveal-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/external\/reveal.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/external\/reveal.js",
+		"outputAbbreviatedPath": "\/external\/min\/reveal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1071,7 +1115,7 @@
 		},
 	"\/javascripts\/scale.fix.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/javascripts\/scale.fix.js",
 		"outputAbbreviatedPath": "\/javascripts\/min\/scale.fix-min.js",
@@ -1593,7 +1637,7 @@
 		},
 	"\/reveal.js\/Gruntfile.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/Gruntfile.js",
 		"outputAbbreviatedPath": "\/reveal.js\/min\/Gruntfile-min.js",
@@ -1613,7 +1657,7 @@
 		},
 	"\/reveal.js\/js\/reveal.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/js\/reveal.js",
 		"outputAbbreviatedPath": "\/reveal.js\/js\/min\/reveal-min.js",
@@ -1651,7 +1695,7 @@
 		},
 	"\/reveal.js\/lib\/js\/classList.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/lib\/js\/classList.js",
 		"outputAbbreviatedPath": "\/reveal.js\/lib\/js\/min\/classList-min.js",
@@ -1662,7 +1706,7 @@
 		},
 	"\/reveal.js\/lib\/js\/head.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/lib\/js\/head.min.js",
 		"outputAbbreviatedPath": "\/reveal.js\/lib\/js\/min\/head.min-min.js",
@@ -1673,7 +1717,7 @@
 		},
 	"\/reveal.js\/lib\/js\/html5shiv.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/lib\/js\/html5shiv.js",
 		"outputAbbreviatedPath": "\/reveal.js\/lib\/js\/min\/html5shiv-min.js",
@@ -1695,7 +1739,7 @@
 		},
 	"\/reveal.js\/plugin\/highlight\/highlight.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/highlight\/highlight.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/highlight\/min\/highlight-min.js",
@@ -1736,7 +1780,7 @@
 		},
 	"\/reveal.js\/plugin\/markdown\/markdown.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/markdown\/markdown.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/markdown\/min\/markdown-min.js",
@@ -1747,7 +1791,7 @@
 		},
 	"\/reveal.js\/plugin\/markdown\/marked.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/markdown\/marked.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/markdown\/min\/marked-min.js",
@@ -1758,7 +1802,7 @@
 		},
 	"\/reveal.js\/plugin\/math\/math.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/math\/math.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/math\/min\/math-min.js",
@@ -1769,7 +1813,7 @@
 		},
 	"\/reveal.js\/plugin\/multiplex\/client.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/client.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/min\/client-min.js",
@@ -1780,7 +1824,7 @@
 		},
 	"\/reveal.js\/plugin\/multiplex\/index.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/index.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/min\/index-min.js",
@@ -1791,7 +1835,7 @@
 		},
 	"\/reveal.js\/plugin\/multiplex\/master.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/master.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/multiplex\/min\/master-min.js",
@@ -1813,7 +1857,7 @@
 		},
 	"\/reveal.js\/plugin\/notes-server\/client.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/notes-server\/client.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/notes-server\/min\/client-min.js",
@@ -1824,7 +1868,7 @@
 		},
 	"\/reveal.js\/plugin\/notes-server\/index.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/notes-server\/index.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/notes-server\/min\/index-min.js",
@@ -1853,7 +1897,7 @@
 		},
 	"\/reveal.js\/plugin\/notes\/notes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/notes\/notes.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/notes\/min\/notes-min.js",
@@ -1864,7 +1908,7 @@
 		},
 	"\/reveal.js\/plugin\/print-pdf\/print-pdf.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/print-pdf\/print-pdf.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/print-pdf\/min\/print-pdf-min.js",
@@ -1875,7 +1919,7 @@
 		},
 	"\/reveal.js\/plugin\/search\/search.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/search\/search.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/search\/min\/search-min.js",
@@ -1886,7 +1930,7 @@
 		},
 	"\/reveal.js\/plugin\/zoom-js\/zoom.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/plugin\/zoom-js\/zoom.js",
 		"outputAbbreviatedPath": "\/reveal.js\/plugin\/zoom-js\/min\/zoom-min.js",
@@ -1994,7 +2038,7 @@
 		},
 	"\/reveal.js\/test\/qunit-1.12.0.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/qunit-1.12.0.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/qunit-1.12.0-min.js",
@@ -2014,7 +2058,7 @@
 		},
 	"\/reveal.js\/test\/test-markdown-element-attributes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/test-markdown-element-attributes.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/test-markdown-element-attributes-min.js",
@@ -2034,7 +2078,7 @@
 		},
 	"\/reveal.js\/test\/test-markdown-slide-attributes.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/test-markdown-slide-attributes.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/test-markdown-slide-attributes-min.js",
@@ -2054,7 +2098,7 @@
 		},
 	"\/reveal.js\/test\/test-markdown.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/test-markdown.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/test-markdown-min.js",
@@ -2074,7 +2118,7 @@
 		},
 	"\/reveal.js\/test\/test-pdf.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/test-pdf.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/test-pdf-min.js",
@@ -2094,7 +2138,7 @@
 		},
 	"\/reveal.js\/test\/test.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/reveal.js\/test\/test.js",
 		"outputAbbreviatedPath": "\/reveal.js\/test\/min\/test-min.js",
@@ -2312,7 +2356,7 @@
 	"jadeAutoOutputPathStyle": 0,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
-	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathEnabled": 0,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
 	"javascriptAutoOutputPathReplace1": "",
